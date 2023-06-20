@@ -656,6 +656,7 @@ table td {
   height: 80vh;
   background: url(https://i.pinimg.com/originals/d0/a0/fa/d0a0fac71b399e8eea8d91f16a6c3c4a.jpg)
     no-repeat;
+  background-size: cover;
 }
 #hero .container {
   padding-top: 72px;
