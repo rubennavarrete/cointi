@@ -654,7 +654,8 @@ table td {
 #hero {
   width: 100%;
   height: 80vh;
-  background: url(../../assets/img/fondoMecanica2.jpg) no-repeat;
+  background: url(https://i.pinimg.com/originals/d0/a0/fa/d0a0fac71b399e8eea8d91f16a6c3c4a.jpg)
+    no-repeat;
 }
 #hero .container {
   padding-top: 72px;
@@ -2450,6 +2451,8 @@ h2 {
   padding-top: 30px;
   padding-bottom: 30px;
   color: #fff;
+  display: flex;
+  justify-content: center;
 }
 #footer .copyright {
   float: left;
