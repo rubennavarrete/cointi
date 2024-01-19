@@ -405,7 +405,7 @@ table td {
   z-index: 997;
   padding: 15px 0;
   background-color: #ffffff;
-  border-bottom: 6px solid #d31a2b !important;
+  border-bottom: 6px solid #ffc107 !important;
 }
 #header.header-scrolled,
 #header.header-inner-pages {
@@ -469,7 +469,7 @@ table td {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover > a {
-  color: #d31a2b;
+  color: #ffc107;
 }
 .navbar .getstarted,
 .navbar .getstarted:focus {
@@ -478,18 +478,18 @@ table td {
   border-radius: 50px;
   color: #37517e;
   font-size: 14px;
-  border: 2px solid #d31a2b;
+  border: 2px solid #ffc107;
   font-weight: 600;
 }
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #d31a2b;
+  background: #ffc107;
 }
 
 .navbar .active-autor {
   color: #fff;
-  background: #d31a2b;
+  background: #ffc107;
 }
 
 .navbar .dropdown ul {
@@ -2318,7 +2318,7 @@ h2 {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #d31a2b;
+  background: #ffc107;
 }
 #footer .footer-newsletter {
   padding: 50px 0;
